@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - My name is Kyle Dalope.
-- 🤓 I'm graduating with a M.S. in Applied Data Science at the University of San Diego in the Summer 2023 term.
-- 🔭 I’m currently working on a capstone project with Airbnb data and creating a pricing model.
+- 🤓 I am a graduate with a M.S. in Applied Data Science from the University of San Diego.
+- 🔭 I am looking for new career opportunties and projects.
 - 📫 How to reach me: kdalope13@gmail.com
 
 
